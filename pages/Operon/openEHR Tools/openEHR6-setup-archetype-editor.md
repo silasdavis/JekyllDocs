@@ -1,5 +1,6 @@
 ---
 title:  "Setup Archetype Editor"
+sidebar: operon_sidebar
 permalink: openEHR6-setup-archetype-editor.html
 ---
 

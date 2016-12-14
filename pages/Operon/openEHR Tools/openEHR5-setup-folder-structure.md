@@ -1,5 +1,6 @@
 ---
 title:  "Setup Folder Structure"
+sidebar: operon_sidebar
 permalink: openEHR5-setup-folder-structure.html
 ---
 

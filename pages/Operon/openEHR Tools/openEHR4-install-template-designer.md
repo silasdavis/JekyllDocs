@@ -1,5 +1,6 @@
 ---
 title:  "Install Template Designer"
+sidebar: operon_sidebar
 permalink: openEHR4-install-template-designer.html
 ---
 

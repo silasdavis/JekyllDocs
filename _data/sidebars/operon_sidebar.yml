@@ -72,8 +72,36 @@ entries:
       url: /openEHR2-install-xmind.html
       output: web, pdf
 
-    - title: Clinical Knowledge Manager (CKM)
-      url: /mydoc_install_jekyll_on_windows.html
+    - title: Install Archetype Editor
+      url: /openEHR3-install-archetype-editor.html
+      output: web, pdf
+
+    - title: Install Template Designer
+      url: /openEHR4-install-template-designer.html
+      output: web, pdf
+
+    - title: Setup Folder Structure
+      url: /openEHR5-setup-folder-structure.html
+      output: web, pdf
+
+    - title: Setup Archetype Editor
+      url: /openEHR6-setup-archetype-editor.html
+      output: web, pdf
+
+    - title: Setup Template Designer
+      url: /openEHR7-setup-template-designer.html
+      output: web, pdf
+
+    - title: Download Archetypes
+      url: /openEHR8-download-archetypes.html
+      output: web, pdf
+
+    - title: Install ADL Workbench
+      url: /openEHR9-install-adl-workbench.html
+      output: web, pdf
+
+    - title: CKM Resources
+      url: /openEHR10-ckm-resources.html
       output: web, pdf
 
   - title: Clinical Content

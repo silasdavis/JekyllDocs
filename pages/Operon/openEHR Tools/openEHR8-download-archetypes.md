@@ -1,5 +1,6 @@
 ---
 title:  "Download Archetypes"
+sidebar: operon_sidebar
 permalink: openEHR8-download-archetypes.html
 ---
 

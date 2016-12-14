@@ -1,5 +1,6 @@
 ---
 title:  "Setup Template Designer"
+sidebar: operon_sidebar
 permalink: openEHR7-setup-template-designer.html
 ---
 

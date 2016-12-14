@@ -1,5 +1,6 @@
 ---
 title:  "Install ADL Workbench"
+sidebar: operon_sidebar
 permalink: openEHR9-install-adl-workbench.html
 ---
 

@@ -1,5 +1,6 @@
 ---
 title:  "CKM Resources"
+sidebar: operon_sidebar
 permalink: openEHR10-ckm-resources.html
 ---
 

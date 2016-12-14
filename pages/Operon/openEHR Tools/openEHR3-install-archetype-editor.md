@@ -1,5 +1,6 @@
 ---
 title:  "Install Archetype Editor"
+sidebar: operon_sidebar
 permalink: openEHR3-install-archetype-editor.html
 ---
 

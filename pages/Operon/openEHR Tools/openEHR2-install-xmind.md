@@ -1,5 +1,6 @@
 ---
 title:  "Install XMIND"
+sidebar: operon_sidebar
 permalink: openEHR2-install-xmind.html
 ---
 

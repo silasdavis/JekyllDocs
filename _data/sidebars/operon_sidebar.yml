@@ -1,0 +1,131 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: User Guide
+  version: 
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Introduction
+      url: /mydoc_introduction.html
+      output: web, pdf
+
+    - title: Available Services
+      url: /mydoc_supported_features.html
+      output: web, pdf
+
+    - title: About Operon
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Support
+      url: /mydoc_support.html
+      output: web, pdf
+
+  - title: Self Service Portal
+    output: web, pdf
+    folderitems:
+
+    - title: Login
+      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: Account Management
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+    - title: Operino management
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: openEHR Tools
+    output: web, pdf
+    folderitems:
+
+    - title: Archetype Editor
+      url: /mydoc_about_ruby_gems_etc.html
+      output: web, pdf
+
+    - title: Template Designer
+      url: /mydoc_install_jekyll_on_mac.html
+      output: web, pdf
+
+    - title: Clinical Knowledge Manager (CKM)
+      url: /mydoc_install_jekyll_on_windows.html
+      output: web, pdf
+
+  - title: Clinical Content
+    output: web, pdf
+
+    folderitems:
+    - title: Clinical Knowledge Manager (CKM)
+      url: /mydoc_pages.html
+      output: web, pdf
+
+    - title: GitHub
+      url: /mydoc_posts.html
+      output: web, pdf
+
+  - title: openEHR Clinical Data Repository
+    output: web, pdf
+
+    folderitems:
+    - title: Introduction
+      url: /mydoc_adding_tooltips.html
+      output: web, pdf
+    
+  - title: Termlex
+    output: web, pdf
+
+    folderitems:
+    - title: Introduction
+      url: /mydoc_adding_tooltips.html
+      output: web, pdf
+
+  - title: Document Sharing (XDS) 
+    output: web, pdf
+
+    folderitems:
+    - title: Introduction
+      url: /mydoc_adding_tooltips.html
+      output: web, pdf 
+
+  - title: Master Patient Index (MPI) 
+    output: web, pdf
+
+    folderitems:
+    - title: Introduction
+      url: /mydoc_adding_tooltips.html
+      output: web, pdf
+
+  - title: Health Provider Registry 
+    output: web, pdf
+
+    folderitems:
+    - title: Introduction
+      url: /mydoc_adding_tooltips.html
+      output: web, pdf
+
+   

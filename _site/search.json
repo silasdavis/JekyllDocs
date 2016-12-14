@@ -3,6 +3,138 @@
 
 
 
+{
+"title": "What can I do with the platform?",
+"tags": "",
+"keywords": "",
+"url": "BASIC1-what-can-i-do.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Why is eHealth so hard",
+"tags": "",
+"keywords": "",
+"url": "BASIC2-hard_e_health.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "List of available services",
+"tags": "",
+"keywords": "",
+"url": "BASIC3-list-of-services.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Getting ready with Postman",
+"tags": "",
+"keywords": "",
+"url": "PM1-postman-ehrscape-getting-ready.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Navigate Postman",
+"tags": "",
+"keywords": "",
+"url": "PM2-navigate-postman.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Create Session",
+"tags": "",
+"keywords": "",
+"url": "PM3-create-session.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Get EHR Identifier",
+"tags": "",
+"keywords": "",
+"url": "PM4-get-ehr-identifier.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Retrieve composition Id",
+"tags": "",
+"keywords": "",
+"url": "PM5-retrieve-composition-id.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Retrieve full composition",
+"tags": "",
+"keywords": "",
+"url": "PM6-retrieve-composition.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Persist Composition",
+"tags": "",
+"keywords": "",
+"url": "PM7-persist-composition.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Run AQL query",
+"tags": "",
+"keywords": "",
+"url": "PM8-run-aql-query.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Close Session",
+"tags": "",
+"keywords": "",
+"url": "PM9-close-session.html",
+"summary": ""
+}
+,
+
+
+
 
 
 {
@@ -659,6 +791,116 @@
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
 "url": "news_archive.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Introduction to openEHR Clinical Modelling Tools",
+"tags": "",
+"keywords": "",
+"url": "openEHR1-clinical-modelling-tools-introduction.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "CKM Resources",
+"tags": "",
+"keywords": "",
+"url": "openEHR10-ckm-resources.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Install XMIND",
+"tags": "",
+"keywords": "",
+"url": "openEHR2-install-xmind.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Install Archetype Editor",
+"tags": "",
+"keywords": "",
+"url": "openEHR3-install-archetype-editor.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Install Template Designer",
+"tags": "",
+"keywords": "",
+"url": "openEHR4-install-template-designer.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Setup Folder Structure",
+"tags": "",
+"keywords": "",
+"url": "openEHR5-setup-folder-structure.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Setup Archetype Editor",
+"tags": "",
+"keywords": "",
+"url": "openEHR6-setup-archetype-editor.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Setup Template Designer",
+"tags": "",
+"keywords": "",
+"url": "openEHR7-setup-template-designer.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Download Archetypes",
+"tags": "",
+"keywords": "",
+"url": "openEHR8-download-archetypes.html",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Install ADL Workbench",
+"tags": "",
+"keywords": "",
+"url": "openEHR9-install-adl-workbench.html",
 "summary": ""
 }
 ,

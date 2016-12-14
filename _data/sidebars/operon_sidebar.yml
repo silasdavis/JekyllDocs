@@ -48,16 +48,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Login
-      url: /mydoc_release_notes_60.html
-      output: web, pdf
-
-    - title: Account Management
-      url: /mydoc_release_notes_50.html
-      output: web, pdf
-
-    - title: Operino management
-      url: /mydoc_release_notes_50.html
+    - title: Quick reference
+      url: /under-construction.html
       output: web, pdf
 
   - title: openEHR Tools
@@ -109,19 +101,19 @@ entries:
 
     folderitems:
     - title: Clinical Knowledge Manager (CKM)
-      url: /mydoc_pages.html
+      url: /under-construction.html
       output: web, pdf
 
     - title: GitHub
-      url: /mydoc_posts.html
+      url: /under-construction.html
       output: web, pdf
 
   - title: openEHR Clinical Data Repository
     output: web, pdf
 
     folderitems:
-    - title: Introduction
-      url: /mydoc_adding_tooltips.html
+    - title: Quick reference
+      url: /under-construction.html
       output: web, pdf
 
   - title: Termlex
@@ -129,7 +121,7 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /mydoc_adding_tooltips.html
+      url: /under-construction.html
       output: web, pdf
 
   - title: Document Sharing (XDS)
@@ -137,7 +129,7 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /mydoc_adding_tooltips.html
+      url: /under-construction.html
       output: web, pdf
 
   - title: Master Patient Index (MPI)
@@ -145,7 +137,7 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /mydoc_adding_tooltips.html
+      url: /under-construction.html
       output: web, pdf
 
   - title: Health Provider Registry
@@ -153,5 +145,5 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /mydoc_adding_tooltips.html
+      url: /under-construction.html
       output: web, pdf

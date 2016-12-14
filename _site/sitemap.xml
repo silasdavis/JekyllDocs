@@ -694,6 +694,12 @@
   
   
   <url>
+    <loc>http://localhost:3000/under-construction.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:3000/feed.xslt.xml</loc>
   </url>
   

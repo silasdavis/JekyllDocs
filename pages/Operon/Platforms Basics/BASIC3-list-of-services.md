@@ -1,5 +1,6 @@
 ---
 title:  "List of available services"
+sidebar: operon_sidebar
 permalink: BASIC3-list-of-services.html
 ---
 

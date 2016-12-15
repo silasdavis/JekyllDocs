@@ -29,19 +29,19 @@ entries:
       type: homepage
 
     - title: Introduction
-      url: /mydoc_introduction.html
+      url: /BASIC1-what-can-i-do.html
       output: web, pdf
 
     - title: Available Services
-      url: /mydoc_supported_features.html
+      url: /BASIC3-list-of-services.html
       output: web, pdf
 
     - title: About Operon
-      url: /mydoc_about.html
+      url: /under-construction.html
       output: web, pdf
 
     - title: Support
-      url: /mydoc_support.html
+      url: /support-under-construction.html
       output: web, pdf
 
   - title: Self Service Portal
@@ -49,7 +49,7 @@ entries:
     folderitems:
 
     - title: Quick reference
-      url: /under-construction.html
+      url: /self-service-under-construction.html
       output: web, pdf
 
   - title: openEHR Tools
@@ -101,11 +101,11 @@ entries:
 
     folderitems:
     - title: Clinical Knowledge Manager (CKM)
-      url: /under-construction.html
+      url: /CKM-under-construction.html
       output: web, pdf
 
     - title: GitHub
-      url: /under-construction.html
+      url: /github-under-construction.html
       output: web, pdf
 
   - title: openEHR Clinical Data Repository
@@ -113,7 +113,7 @@ entries:
 
     folderitems:
     - title: Quick reference
-      url: /under-construction.html
+      url: /CDR-QR-under-construction.html
       output: web, pdf
 
   - title: Termlex
@@ -121,7 +121,7 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /under-construction.html
+      url: /termlex-intro-under-construction.html
       output: web, pdf
 
   - title: Document Sharing (XDS)
@@ -129,7 +129,7 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /under-construction.html
+      url: /docshare-intro-under-construction.html
       output: web, pdf
 
   - title: Master Patient Index (MPI)
@@ -137,7 +137,7 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /under-construction.html
+      url: /MPI-intro-under-construction.html
       output: web, pdf
 
   - title: Health Provider Registry
@@ -145,5 +145,5 @@ entries:
 
     folderitems:
     - title: Introduction
-      url: /under-construction.html
+      url: /HPR-intro-under-construction.html
       output: web, pdf

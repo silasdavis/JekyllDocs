@@ -44,6 +44,30 @@
   
   
   <url>
+    <loc>http://localhost:3000/CDR-QR-under-construction.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/CKM-under-construction.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/HPR-intro-under-construction.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/MPI-intro-under-construction.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:3000/PM1-postman-ehrscape-getting-ready.html</loc>
   </url>
   
@@ -96,6 +120,18 @@
   </url>
   
   
+  
+  <url>
+    <loc>http://localhost:3000/docshare-intro-under-construction.html</loc>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/github-under-construction.html</loc>
+  </url>
   
   
   
@@ -316,13 +352,13 @@
   
   
   <url>
-    <loc>http://localhost:3000/mydoc_scroll.html</loc>
+    <loc>http://localhost:3000/js/mydoc_scroll.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:3000/js/mydoc_scroll.html</loc>
+    <loc>http://localhost:3000/mydoc_scroll.html</loc>
   </url>
   
   
@@ -661,6 +697,17 @@
   
   
   
+  <url>
+    <loc>http://localhost:3000/self-service-under-construction.html</loc>
+  </url>
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/support-under-construction.html</loc>
+  </url>
   
   
   
@@ -682,6 +729,13 @@
   
   
   
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/termlex-intro-under-construction.html</loc>
+  </url>
   
   
   

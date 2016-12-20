@@ -38,16 +38,16 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: ;
-    border-color: #015CAE;
+    background-color: #347DBE;
+    border-color: #379bb5;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    color: #015CAE;
+    color: #379bb5;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: ;
+    background-color: #379bb5;
     color: #ffffff;
 }
 

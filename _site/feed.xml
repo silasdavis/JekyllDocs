@@ -11,9 +11,14 @@
 =======
         <link>http://localhost:3000/</link>
         <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
         <pubDate>Fri, 06 Jan 2017 16:51:35 +0000</pubDate>
         <lastBuildDate>Fri, 06 Jan 2017 16:51:35 +0000</lastBuildDate>
 >>>>>>> b655062a57a0f92d398a64a50af522cbce4ae1ce
+=======
+        <pubDate>Fri, 06 Jan 2017 17:11:22 +0000</pubDate>
+        <lastBuildDate>Fri, 06 Jan 2017 17:11:22 +0000</lastBuildDate>
+>>>>>>> 8a58dee093f2f65d90543b19b767b61894d2b9e5
         <generator>Jekyll v3.3.1</generator>
         
         <item>

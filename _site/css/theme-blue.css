@@ -4,7 +4,6 @@
     font-size:16px;
 }
 
-
 h3 {color: #379bb5; }
 h4 {color: #808080; }
 
@@ -32,18 +31,18 @@ div.navbar-collapse .dropdown-menu > li > a:hover {
 }
 
 a[data-toggle="tooltip"] {
-    color: #649345;
+    color: #248EC2;
     font-style: italic;
     cursor: default;
 }
 
 .navbar-inverse {
     background-color: ;
-    border-color: rgba(#9eb3b9);
+    border-color: #248ec2;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    color: #379bb5;
+    color: #248ec2;
 }
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
@@ -96,7 +95,7 @@ li.sidebarTitle {
     margin-top:40px;
     font-weight:normal;
     font-size:130%;
-    color: #ED1951;
+    color: #248ec2;
     margin-bottom:10px;
     margin-left: 5px;
 

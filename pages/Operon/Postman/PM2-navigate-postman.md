@@ -1,9 +1,10 @@
 ---
 title:  "Navigate Postman"
+sidebar: operon_sidebar
 permalink: PM2-navigate-postman.html
+summary: This section contains brief instructions how to navigate the Postman tool
 ---
 
-## Navigate Postman
 Click on the ***openEHR Ehrscape Clinical Data Repository*** to reveal the folders, and then click on individual folders to expand and reveal the contents
 
 <img src="/images/NavigatePostman.jpg" alt="Navigate Postman">

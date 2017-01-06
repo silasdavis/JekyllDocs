@@ -1,6 +1,8 @@
 ---
 title:  "Getting ready with Postman"
+sidebar: operon_sidebar
 permalink: PM1-postman-ehrscape-getting-ready.html
+summary: This section contains an introduction to the Postman Tool. This tool can be used to run API calls to send and receive data from the Ehrscape Clinical Data Repository
 ---
 
 First you need to install a copy of the API runner application ***Postman*** (Chrome/Macos/Windows)
@@ -36,7 +38,7 @@ Find ***<your_environment_name.postman_environment*** in your email and download
 
 
 
-### Import Downloaded files into Postman
+## Import Downloaded files into Postman
 If you have downloaded files from Github of from your email, these now need to be installed in Postman.
 
 Open Postman and select ***Import***

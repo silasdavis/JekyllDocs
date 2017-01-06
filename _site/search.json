@@ -8,7 +8,7 @@
 "tags": "",
 "keywords": "",
 "url": "BASIC1-what-can-i-do.html",
-"summary": ""
+"summary": "The section contains a brief introduction about the platform and links to a couple of useful videos about the underlying concepts"
 }
 ,
 
@@ -59,6 +59,39 @@
 
 
 {
+"title": "Overview of openEHR and Ehrscape",
+"tags": "",
+"keywords": "",
+"url": "ES0-overview-openehr-ehrscape.html",
+"summary": "This section provides an overview of the basic concepts of openEHR and introduces the Operon Ehrscape service"
+}
+,
+
+
+
+{
+"title": "openEHR Archetypes and Templates",
+"tags": "",
+"keywords": "",
+"url": "ES1-archetypes-templates.html",
+"summary": "This section provides a basic overview of openEHR archetypes and templates"
+}
+,
+
+
+
+{
+"title": "openEHR Reference Model",
+"tags": "",
+"keywords": "",
+"url": "ES2-reference-model.html",
+"summary": "This section provides a basic overview of the openEHR reference model"
+}
+,
+
+
+
+{
 "title": "Work in progress",
 "tags": "",
 "keywords": "",
@@ -85,7 +118,7 @@
 "tags": "",
 "keywords": "",
 "url": "PM1-postman-ehrscape-getting-ready.html",
-"summary": ""
+"summary": "This section contains an introduction to the Postman Tool. This tool can be used to run API calls to send and receive data from the Ehrscape Clinical Data Repository"
 }
 ,
 
@@ -96,84 +129,18 @@
 "tags": "",
 "keywords": "",
 "url": "PM2-navigate-postman.html",
-"summary": ""
+"summary": "This section contains brief instructions how to navigate the Postman tool"
 }
 ,
 
 
 
 {
-"title": "Create Session",
+"title": "Using Postman with Ehrscape",
 "tags": "",
 "keywords": "",
-"url": "PM3-create-session.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Get EHR Identifier",
-"tags": "",
-"keywords": "",
-"url": "PM4-get-ehr-identifier.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Retrieve composition Id",
-"tags": "",
-"keywords": "",
-"url": "PM5-retrieve-composition-id.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Retrieve full composition",
-"tags": "",
-"keywords": "",
-"url": "PM6-retrieve-composition.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Persist Composition",
-"tags": "",
-"keywords": "",
-"url": "PM7-persist-composition.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Run AQL query",
-"tags": "",
-"keywords": "",
-"url": "PM8-run-aql-query.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Close Session",
-"tags": "",
-"keywords": "",
-"url": "PM9-close-session.html",
-"summary": ""
+"url": "PM3-using-postman.html",
+"summary": "This section contains instructions how to use the Postman tool to create sessions, retrieve data, persist data and run a basic query"
 }
 ,
 
@@ -248,110 +215,44 @@
 
 
 {
-"title": "Introduction to openEHR Clinical Modelling Tools",
+"title": "Introduction and setup",
 "tags": "",
 "keywords": "",
-"url": "openEHR1-clinical-modelling-tools-introduction.html",
-"summary": ""
+"url": "openEHR0-introduction-and-setup.html",
+"summary": "This section provides an introduction to the openEHR toolset and some initial setup instructions. The tools themselves are further explained in the subsequent pages in the openEHR Tools section."
 }
 ,
 
 
 
 {
-"title": "CKM Resources",
+"title": "Archetype Editor",
 "tags": "",
 "keywords": "",
-"url": "openEHR10-ckm-resources.html",
-"summary": ""
+"url": "openEHR1-archetype-editor.html",
+"summary": "This section provides instructions on how to install and configure the Archetype Editor tool and download the archetypes from the international CKM repository"
 }
 ,
 
 
 
 {
-"title": "Install XMIND",
+"title": "Template Designer",
 "tags": "",
 "keywords": "",
-"url": "openEHR2-install-xmind.html",
-"summary": ""
+"url": "openEHR2-template-designer.html",
+"summary": "This section provides instructions how to install and configure the Template Designer tool"
 }
 ,
 
 
 
 {
-"title": "Install Archetype Editor",
+"title": "Resources",
 "tags": "",
 "keywords": "",
-"url": "openEHR3-install-archetype-editor.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Install Template Designer",
-"tags": "",
-"keywords": "",
-"url": "openEHR4-install-template-designer.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Setup Folder Structure",
-"tags": "",
-"keywords": "",
-"url": "openEHR5-setup-folder-structure.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Setup Archetype Editor",
-"tags": "",
-"keywords": "",
-"url": "openEHR6-setup-archetype-editor.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Setup Template Designer",
-"tags": "",
-"keywords": "",
-"url": "openEHR7-setup-template-designer.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Download Archetypes",
-"tags": "",
-"keywords": "",
-"url": "openEHR8-download-archetypes.html",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "Install ADL Workbench",
-"tags": "",
-"keywords": "",
-"url": "openEHR9-install-adl-workbench.html",
-"summary": ""
+"url": "openEHR3-resources.html",
+"summary": "This section provides links to the various CKM resources and the ADL workbench tool"
 }
 ,
 

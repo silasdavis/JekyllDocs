@@ -56,6 +56,24 @@
   
   
   <url>
+    <loc>http://localhost:3000/ES0-overview-openehr-ehrscape.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/ES1-archetypes-templates.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:3000/ES2-reference-model.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:3000/HPR-intro-under-construction.html</loc>
   </url>
   
@@ -80,43 +98,7 @@
   
   
   <url>
-    <loc>http://localhost:3000/PM3-create-session.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/PM4-get-ehr-identifier.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/PM5-retrieve-composition-id.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/PM6-retrieve-composition.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/PM7-persist-composition.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/PM8-run-aql-query.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/PM9-close-session.html</loc>
+    <loc>http://localhost:3000/PM3-using-postman.html</loc>
   </url>
   
   
@@ -160,61 +142,25 @@
   
   
   <url>
-    <loc>http://localhost:3000/openEHR1-clinical-modelling-tools-introduction.html</loc>
+    <loc>http://localhost:3000/openEHR0-introduction-and-setup.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:3000/openEHR10-ckm-resources.html</loc>
+    <loc>http://localhost:3000/openEHR1-archetype-editor.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:3000/openEHR2-install-xmind.html</loc>
+    <loc>http://localhost:3000/openEHR2-template-designer.html</loc>
   </url>
   
   
   
   <url>
-    <loc>http://localhost:3000/openEHR3-install-archetype-editor.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/openEHR4-install-template-designer.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/openEHR5-setup-folder-structure.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/openEHR6-setup-archetype-editor.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/openEHR7-setup-template-designer.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/openEHR8-download-archetypes.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://localhost:3000/openEHR9-install-adl-workbench.html</loc>
+    <loc>http://localhost:3000/openEHR3-resources.html</loc>
   </url>
   
   

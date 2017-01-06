@@ -56,50 +56,61 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Introduction
-      url: /openEHR1-clinical-modelling-tools-introduction.html
+    - title: Introduction and Setup
+      url: /openEHR0-introduction-and-setup.html
       output: web, pdf
 
-    - title: Install XMIND
-      url: /openEHR2-install-xmind.html
+    - title: Archetype Editor
+      url: /openEHR1-archetype-editor.html
       output: web, pdf
 
-    - title: Install Archetype Editor
-      url: /openEHR3-install-archetype-editor.html
+    - title: Template Designer
+      url: /openEHR2-template-designer.html
       output: web, pdf
 
-    - title: Install Template Designer
-      url: /openEHR4-install-template-designer.html
+    - title: Resources
+      url: /openEHR3-resources.html
       output: web, pdf
 
-    - title: Setup Folder Structure
-      url: /openEHR5-setup-folder-structure.html
+  - title: openEHR and Ehrscape
+    output: web, pdf
+
+    folderitems:
+
+    - title: Introduction to openEHR and Ehrscape
+      url: /ES0-overview-openehr-ehrscape.html
       output: web, pdf
 
-    - title: Setup Archetype Editor
-      url: /openEHR6-setup-archetype-editor.html
+    - title: openEHR archetypes and templates
+      url: /ES1-archetypes-templates.html
       output: web, pdf
 
-    - title: Setup Template Designer
-      url: /openEHR7-setup-template-designer.html
+    - title: openEHR Reference Model
+      url: /ES2-reference-model.html
       output: web, pdf
 
-    - title: Download Archetypes
-      url: /openEHR8-download-archetypes.html
+  - title: Using Postman
+    output: web, pdf
+
+    folderitems:
+
+    - title: Getting ready for Postman Ehrscape
+      url: /PM1-postman-ehrscape-getting-ready.html
       output: web, pdf
 
-    - title: Install ADL Workbench
-      url: /openEHR9-install-adl-workbench.html
+    - title: Navigating Postman
+      url: /PM2-navigate-postman.html
       output: web, pdf
 
-    - title: CKM Resources
-      url: /openEHR10-ckm-resources.html
+    - title: Using Postman with Ehrscape
+      url: /PM3-using-postman.html
       output: web, pdf
 
   - title: Clinical Content
     output: web, pdf
 
     folderitems:
+
     - title: Clinical Knowledge Manager (CKM)
       url: /CKM-under-construction.html
       output: web, pdf

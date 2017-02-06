@@ -2,15 +2,13 @@
 title:  "What can I do with the platform?"
 sidebar: operon_sidebar
 permalink: BASIC1-what-can-i-do.html
-summary: The section contains a brief introduction about the platform and links to a couple of useful videos about the underlying concepts
+summary: The section contains a brief introduction about the platform and a useful video about the underlying concepts
 ---
 
-[![Ian McNicoll talking about the Open Platform](https://img.youtube.com/vi/hrdLaWk-beQ/1.jpg)](https://www.youtube.com/watch?v=hrdLaWk-beQ)
+<iframe width="420" height="315" src="http://www.youtube.com/embed/hrdLaWk-beQ" frameborder="0" allowfullscreen></iframe>
 
-[![Wai Keong Wong giving an introduction to openEHR](https://img.youtube.com/vi/pC6mUtqqK9U&t/1.jpg)](https://www.youtube.com/watch?v=pC6mUtqqK9U&t)
-
-## **First step**
+# **First step**
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## **Next step**
+# **Next step**
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

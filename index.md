@@ -1,7 +1,6 @@
 ---
-title: Getting started with Operon
+title: What can I do with the platform?
 keywords: homepage
-tags: [getting_started]
 sidebar: operon_sidebar
 permalink: index.html
 summary: These brief instructions will help you get started quickly with the Operon Cloud
@@ -12,7 +11,11 @@ The Operon Cloud provides a secure open platform that enables you to build inter
 
 Our platform provides the plumbing and takes care of much of the "heavy lifting" allowing you to concentrate your efforts on application functionality while the platform deals with issues including interoperability, cyber-security, information governance and business continuity.
 
-Unlike many other platforms which are based on proprietary approaches which mean your application is locked-in to the platform the Operon Cloud uses established open standards including openEHR, IHE-XDS, FHIR and SMART which means you applications are easily transportable to other platforms based on these standards.  
+Unlike many other platforms which are based on proprietary approaches which mean your application is locked-in to the platform the Operon Cloud uses established open standards including openEHR, IHE-XDS, FHIR and SMART which means you applications are easily transportable to other platforms based on these standards.
+
+To find out more about the rationale and concepts behind the open platform approach, you may want to look this video.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/hrdLaWk-beQ" frameborder="0" allowfullscreen></iframe>
 
 ## Create an Account
 
@@ -20,7 +23,7 @@ Your first step to using the Operon Cloud is to create an account. Tier 1 usage 
 
 ## Build a Operino
 
-The building blocks of the Operon Cloud are called Operinos. An Operion provides a container for a set of services from the Operon Cloud that you need for a particular application To use the Operon Cloud you need at least one Operino, although you can create as many as you need.
+The building blocks of the Operon Cloud are called Operinos. An Operino provides a container for a set of services from the Operon Cloud that you need for a particular application To use the Operon Cloud you need at least one Operino, although you can create as many as you need.
 
 ## Explore the API
 

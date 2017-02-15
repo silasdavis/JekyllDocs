@@ -19,37 +19,57 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Get started
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: What can I do with the platform
       url: /index.html
       output: web, pdf
       type: homepage
-
-    - title: Introduction
-      url: /BASIC1-what-can-i-do.html
-      output: web, pdf
 
     - title: Available Services
       url: /BASIC3-list-of-services.html
       output: web, pdf
 
     - title: About Operon
-      url: /under-construction.html
+      url: /BASIC4-about-operon.html
       output: web, pdf
 
     - title: Support
-      url: /support-under-construction.html
+      url: /BASIC5-support.html
       output: web, pdf
 
   - title: Self Service Portal
     output: web, pdf
     folderitems:
 
-    - title: Quick reference
-      url: /self-service-under-construction.html
+    - title: Platform status
+      url: /SSP0-platform-status.html
+      output: web, pdf
+
+    - title: Account Management
+      url: /SSP1-account-management.html
+      output: web, pdf
+
+    - title: Resource Management
+      url: /SSP2-resource-management.html
+      output: web, pdf
+
+    - title: Organisation Management
+      url: /SSP3-organisation-management.html
+      output: web, pdf
+
+    - title: Use Resources
+      url: /SSP4-use-resources.html
+      output: web, pdf
+
+    - title: Backup and Restore
+      url: /SSP5-backup.html
+      output: web, pdf
+
+    - title: Billing and Payment
+      url: /SSP6-billing-and-payment.html
       output: web, pdf
 
   - title: openEHR Tools

@@ -1,0 +1,4 @@
+#!/bin/bash
+deploy_dir=/var/www/html/docs
+rsync -crvz --exclude='.git' --exclude='vendor' --delete-after --delete-excluded _site/ deploy@docs.operon.cloud:${deploy_dir}
+

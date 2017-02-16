@@ -1,0 +1,5 @@
+#!/bin/bash
+deploy_dir=/var/www/docs
+rsync -crvz --exclude='.git' --exclude='vendor' --delete-after --delete-excluded _site/ docs.operon.cloud:${deploy_dir}
+ssh docs.operon.cloud sudo chown -R www-data:www-data ${deploy_dir}
+

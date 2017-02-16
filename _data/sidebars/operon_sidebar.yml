@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: User Guide
+  product: User Guidance
   version:
   folders:
 
@@ -70,6 +70,18 @@ entries:
 
     - title: Billing and Payment
       url: /SSP6-billing-and-payment.html
+      output: web, pdf
+
+  - title: EHR Explorer
+    output: web, pdf
+    folderitems:
+
+    - title: Introduction
+      url: /EHREX1-intro.html
+      output: web, pdf
+
+    - title: Home page and navigation
+      url: /EHREX2-navigation.html
       output: web, pdf
 
   - title: openEHR Tools

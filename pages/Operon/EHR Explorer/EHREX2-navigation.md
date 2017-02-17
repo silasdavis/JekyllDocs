@@ -24,9 +24,16 @@ The Models option switches to the Models view where you can import, search and v
 <img src="\images/ehr_explorer_models.jpg" alt="EHR Explorer Models">
 
 ### 3. Form Builder
-The Form Builder option allows you to create, save and test basic forms for entering data directly in the Clinical Data Repository. To find out more
+The Form Builder option allows you to create, run, save and test basic forms for entering data directly in the Clinical Data Repository. To find out more about this function, [click here]({{site.baseurl}}/EHREX4-form-builder.html)
+
+<img src="\images/ehr_explorer_models.jpg" alt="EHR Explorer Models">
 
 ### 4. Documents
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+<img src="\images/ehr_explorer_documents_blank.jpg" alt="EHR Explorer Documents">
 
 ### 5. Query
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<img src="\images/ehr_explorer_query_blank.jpg" alt="EHR Explorer Query">

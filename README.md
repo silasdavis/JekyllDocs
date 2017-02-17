@@ -47,3 +47,4 @@ scripts/build && scripts/deploy
 
 #### TODO
 - Set up CI environment to deploy from master (e.g. CircleCI)
+- Set up somethign else

@@ -1,19 +1,49 @@
-## Jekyll Documentation theme
+### Operon documentation site
 
-Build the site to see the instructions for using it. Or just go here: [http://idratherbewriting.com/documentation-theme-jekyll/](http://idratherbewriting.com/documentation-theme-jekyll/)
+This is source for the Operon documentation site. It is a statically generated Jekyll site. To get a working build environment you'll need ruby <= 2.3. Then from the project root (run locally from your development machine):
 
-## Running the site in Docker
-
-You can also use Docker to directly build and run the site on your local machine. Just clone the repo and run the following from your working dir:
-
-```
-docker build --no-cache -t mydocs .
+```bash
+gem install bundler
+bundle install
 ```
 
-Once the build is complete, you can mount and run the whole site as follows:
+Then to build the site to the default `_site` directory run:
 
+```bash
+bundle exec jekyll build
 ```
-docker run -v "$PWD:/src" -p 4000:4000 mydocs serve -H 0.0.0.0
-```
-This is perhaps the easiest way to see how your site would actually look.
 
+Or (from the project root) you can run the supplied build script:
+
+```bash
+scripts/build
+```
+
+Then to deploy using rsync to the server:
+
+```bash
+scripts/deploy
+```
+
+You will need SSH access to web server docs.operon.cloud as the 'deploy' user.
+
+#### Grant deployment access
+
+To grant deployment access to a user on the web server add their SSH public key to the deploy user's `authorized_keys` file:
+
+```bash
+cat /home/the_user/.ssh/authorized_keys >> /home/deploy/.ssh/authorized_keys
+```
+
+When running the deploy script (on your local machine) make sure you have the ssh agent running (check with `ssh-add`)
+
+#### Full build and deployment
+
+Run:
+
+```bash
+scripts/build && scripts/deploy
+```
+
+#### TODO
+- Set up CI environment to deploy from master (e.g. CircleCI)
